@@ -1,0 +1,81 @@
+#taca{
+    border: 3px solid black;
+    background-color: rgb(88, 37, 24);
+    height: 600px;
+    width: 600px;
+    border-radius: 600px;
+}
+#pizza{
+    border: 3px solid black;
+    background-color: rgb(187, 118, 53);
+    height: 400px;
+    width: 400px;
+    border-radius: 600px;
+    margin: 100px;
+}
+
+#sos{
+    border: 3px solid black;
+    background-color: rgb(161, 39, 39);
+    height: 320px;
+    width: 320px;
+    border-radius: 600px;
+    margin: 25px;
+}
+
+#bord{
+    border: 3px solid black;
+    background-color: rgb(235, 167, 104);
+    height: 370px;
+    width: 370px;
+    border-radius: 600px;
+    margin: 12px;
+}
+
+#ser{
+    border: 3px solid black;
+    background-color: rgba(236, 186, 49, 0.87);
+    height: 275px;
+    width: 275px;
+    border-radius: 600px;
+    margin: 20px;
+}
+
+
+#line{
+    width: 3px;
+    height: 403px;
+    background-color: black;
+    position: absolute;
+    margin-left: 305px;
+    margin-top: 105px;
+}
+
+#line2{
+    width: 403px;
+    height: 3px;
+    background-color: black;
+    position: absolute;
+    margin-left: 103px;
+    margin-top: 301.5px;
+}
+
+#line3{
+    width: 404px;
+    height: 3px;
+    background-color: black;
+    position: absolute;
+    margin-left: 106px;
+    margin-top: 303px;
+    transform: rotate(45deg);
+}
+
+#line4{
+    width: 404px;
+    height: 3px;
+    background-color: black;
+    position: absolute;
+    margin-left: 103px;
+    margin-top: 303px;
+    transform: rotate(135deg);
+}
